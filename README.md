@@ -37,7 +37,7 @@ and Extended `Streaming_History_Audio_*.json`).
 
 ## Running order
 
-Run from inside `src/` (`cd src`).
+Run from the repository root.
 
 | # | Script | What it does | Main output (in `output/`) |
 |---|--------|--------------|----------------------------|
