@@ -17,8 +17,7 @@ Environment variables:
 
 import os
 
-REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-
+REPO_ROOT = os.path.abspath(os.path.dirname(__file__))
 DATA_ROOT = os.environ.get("SEMINAR_DATA_ROOT", os.path.join(REPO_ROOT, "data_raw"))
 OUTPUT_DIR = os.environ.get("SEMINAR_OUTPUT_DIR", os.path.join(REPO_ROOT, "output"))
 QUESTIONNAIRE_XLSX = os.environ.get(
