@@ -1,5 +1,5 @@
 # Musical cognition and listener wear-out
-
+![Chronotype vs. average listening hour](figure1.png)
 Analysis code for the seminar paper *"Musical Cognition and Listener Wear-Out: Need for Cognition and
 Chronotype as Moderators of Structural Engagement with Music"* (Hebrew University, seminar of Prof. Roni Granot).
 
